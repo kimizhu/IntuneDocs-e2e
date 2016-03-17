@@ -6,7 +6,12 @@
           "**/*.md"
         ],
         "exclude": [
-          "**/obj/**"
+          "**/obj/**",
+          "Understand/**",
+          "GetStarted/**",
+          "DeployUser/**",
+          "PlanDesign/**",
+          "Troubleshoot/**"      
         ]
       }
     ],
@@ -18,11 +23,18 @@
           "**/*.jpg",
           "**/*.gif",
           "**/*.bmp",
+          "**/*.html",
+          "**/*.css",
           "_themes/**"
           ],
         "exclude": [
           "**/obj/**",
-          "_themes/DocPacker/**"
+          "_themes/DocPacker/**",
+          "Understand/**",
+          "GetStarted/**",
+          "DeployUser/**",
+          "PlanDesign/**",
+          "Troubleshoot/**"   
         ]
       }
     ],
@@ -30,7 +42,7 @@
     "template": "docs.html",
     "globalMetadata": {
       "layout": "Conceptual",
-      "breadcrumb_path": "",
+      "breadcrumb_path": "/EM/toc.json",
       "ms.locale": "en-us"
     }
   },

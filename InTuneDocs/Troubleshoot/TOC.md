@@ -1,0 +1,15 @@
+# [Understand and Explore](/intune/understand/ways-to-do-enterprise-mobility.html)
+# Get started
+# [Plan and Design](/intune/plandesign/plan-your-user-and-device-groups.html)
+# [Deploy and Use](/intune/deployuse/learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.html)
+# [Troubleshoot](how-to-get-support-for-microsoft-intune.md)
+
+## [How to get support](how-to-get-support-for-microsoft-intune.md)
+## [Troubleshoot endpoint protection](Troubleshoot-Endpoint-Protection-in-microsoft-intune.md)
+## [Troubleshoot company resource access problems](Troubleshoot-company-resource-access-problems-with-microsoft-intune.md)
+## [Troubleshoot app deployment problems](Troubleshoot-app-deployment-problems-in-microsoft-intune.md)
+## [Troubleshoot device enrollment](troubleshoot-device-enrollment-in-intune.md)
+## [Troubleshoot policies](Troubleshoot-policies-in-microsoft-intune.md)
+## [Troubleshoot client setup](Troubleshoot-client-setup-in-microsoft-intune.md)
+## [Troubleshoot software updates](Troubleshoot-software-updates-in-microsoft-intune.md)
+## [Troubleshoot email profiles](Troubleshoot-email-profiles-in-microsoft-intune.md)
