@@ -1,0 +1,50 @@
+[{
+		"toc_title" : "Documentation",
+		"href" : "/",
+		"level" : 1,
+		"children" : [{
+				"href" : "/InTuneE2E/",
+				"homepage" : "/InTuneE2E/index.html",
+				"toc_title" : "Intune",
+				"level" : 2,
+				"relative_path_in_depot" : "/InTune/",
+				"children" : [{
+						"href" : "/InTuneE2E/Understand/",
+						"homepage" : "/InTuneE2E/Understand/ways-to-do-enterprise-mobility.html",
+						"toc_title" : "Understand and explore",
+						"level" : 3,
+						"relative_path_in_depot" : "/InTuneE2E/Understand/"
+					}, {
+						"href" : "/InTuneE2E/PlanDesign/",
+						"homepage" : "/InTuneE2E/PlanDesign/plan-you-user-and-device-groups.html",
+						"toc_title" : "Plan and design",
+						"level" : 3,
+						"relative_path_in_depot" : "/InTuneE2E/PlanDesign/"
+					}, {
+						"href" : "/InTuneE2E/DeployUse/learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents",
+						"toc_title" : "Deploy and use",
+						"level" : 3,
+						"relative_path_in_depot" : "/InTuneE2E/DeployUse/learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents"
+					}, {
+						"href" : "/InTuneE2E/Troubleshoot/",
+						"homepage" : "/InTuneE2E/Troubleshoot/troubleshoot-microsoft-intune.html",
+						"toc_title" : "Troubleshoot",
+						"level" : 3,
+						"relative_path_in_depot" : "/Intune/Troubleshoot/"
+					}, {
+						"href" : "/InTuneE2E/GetStarted/",
+						"homepage" : "/InTuneE2E/GetStarted/what-s-new-in-microsoft-intune.html",
+						"toc_title" : "Get started",
+						"level" : 3,
+						"relative_path_in_depot" : "/InTuneE2E/GetStarted/"
+					}
+				]
+			}, {
+				"href" : "/reference/",
+				"homepage" : "/reference/",
+				"toc_title" : "Reference",
+				"level" : 2
+			}
+		]
+	}
+]

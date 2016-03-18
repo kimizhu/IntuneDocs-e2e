@@ -25,7 +25,8 @@
           "**/*.bmp",
           "**/*.html",
           "**/*.css",
-          "_themes/**"
+          "_themes/**",
+          "**/breadcrumb.json"
           ],
         "exclude": [
           "**/obj/**",
@@ -42,7 +43,7 @@
     "template": "docs.html",
     "globalMetadata": {
       "layout": "Conceptual",
-      "breadcrumb_path": "/EM/toc.json",
+      "breadcrumb_path": "/IntuneE2E/breadcrumb.json",
       "ms.locale": "en-us"
     }
   },
